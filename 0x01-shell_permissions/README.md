@@ -1,2 +1,3 @@
   Script that changes the owner of a file "hello" to the user "betty"
   Script thta creates an empty file called hello
+  Script that adds execute permission to the owner of the file "hello"
