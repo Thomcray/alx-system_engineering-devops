@@ -1,3 +1,4 @@
+# INSTRUCTIONS FOR THE TASK
   Script that switches the current user to the user betty 
   Script that changes the owner of a file "hello" to the user "betty"
   Script thta creates an empty file called hello
