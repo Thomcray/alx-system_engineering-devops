@@ -16,3 +16,4 @@
 	Script thta changes t he owner to vincent and the group owner to staff for all the files and directories in the working directory
 	Script that changes the owner and the group owner of _hello to vincent and staff respectively
 	Script that changes the owner of the file hello to betty only if it is owned by the user guilluame
+	Script that will play the StarWars IV in the terminal
