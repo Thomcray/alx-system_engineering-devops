@@ -5,3 +5,4 @@
 	Display the last 10 lines of /etc/passwd.
 	Display the first 10 lines of /etc/passwd.
 	Write a script that displays the thired line of the file iacta.
+	Write a shell script thta creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) .
