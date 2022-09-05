@@ -6,3 +6,4 @@
 	Display the first 10 lines of /etc/passwd.
 	Write a script that displays the thired line of the file iacta.
 	Write a shell script thta creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) .
+	Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exist it should be overwritten. if the file ls_cwd_content does not exist, create it.
