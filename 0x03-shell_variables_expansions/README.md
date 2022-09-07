@@ -17,6 +17,9 @@
 	Write a script that displays the result od BREATH to the power of LOVE.
 	* BREATH and LOVE are environment variables
 	* The script should display the current result followed by a new line.
+	Writ a script that converts a number from base 2 to base 10.
+	* The number in base 2 is stored in the environment variable BINARY.
+	* The script should display the number in base 10, followed by a new line.
 	Create a script thta prints all possible combinations of two letters except oo.
 	* Letters are lower case, a to z
 	* One combinator per line
