@@ -17,3 +17,10 @@
 	Write a script that displays the result od BREATH to the power of LOVE.
 	* BREATH and LOVE are environment variables
 	* The script should display the current result followed by a new line.
+	Create a script thta prints all possible combinations of two letters except oo.
+	* Letters are lower case, a to z
+	* One combinator per line
+	* The output should be alpha ordered starting with aa
+	* Do not print oo
+	* Your script file should contain maximum of 64 characters.
+
